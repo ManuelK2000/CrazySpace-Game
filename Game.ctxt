@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Game
+comment0.text=\r\n\ This\ class\ contains\ variables\ and\ controls\ the\ game\r\n\ \r\n\ @author\ Manuel\ Kienlein\r\n
+comment1.params=
+comment1.target=void\ gameOver()
+comment2.params=
+comment2.target=void\ run()
+comment3.params=
+comment3.target=void\ reset()
+numComments=4

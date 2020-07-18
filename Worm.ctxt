@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Worm
+comment0.text=\r\n\ The\ worm\ is\ a\ entity\ that\ scores\ points\ if\ you\ run\ over\ it\ in\ an\ ambulance\r\n\ \r\n\ @author\ Manuel\ Kienlein\r\n
+comment1.params=size
+comment1.target=Worm(int)
+comment2.params=size
+comment2.target=void\ setSize(int)
+comment3.params=
+comment3.target=int\ getSize()
+numComments=4

@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.target=Ambulance
+comment0.text=\r\n\ The\ ambulance\ is\ the\ vehicle,\ that\ is\ controlled\ by\ the\ player\r\n\ \r\n\ @author\ Manuel\ Kienlein\ \r\n
+comment1.params=
+comment1.target=Ambulance()
+comment10.params=god
+comment10.target=void\ setGod(boolean)
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ checkKeys()
+comment4.params=
+comment4.target=void\ lookForWorms()
+comment5.params=
+comment5.target=void\ displayScore()
+comment6.params=autoFollow
+comment6.target=void\ fireRocket(boolean)
+comment7.params=
+comment7.target=void\ autopilot()
+comment8.params=
+comment8.target=void\ drawWaypoints()
+comment9.params=
+comment9.target=boolean\ isGod()
+numComments=11

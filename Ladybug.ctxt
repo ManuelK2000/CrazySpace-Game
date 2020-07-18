@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Ladybug
+comment0.text=\r\n\ Ladybugs\ are\ enemies\ of\ the\ ambulance\ in\ the\ space.\r\n\ But\ there\ is\ a\ 20\ percent\ chance\ that\ they\ are\ peaceful.\r\n\ \r\n\ @author\ Manuel\ Kienlein\r\n
+comment1.params=
+comment1.target=Ladybug()
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ randomTurn()
+comment4.params=
+comment4.target=void\ lookForAmbulance()
+comment5.params=
+comment5.target=boolean\ isAggressive()
+comment6.params=aggressive
+comment6.target=void\ setAggressive(boolean)
+numComments=7

@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=KeyListener
+comment0.text=\r\n\ The\ KeyListener\ checks\ whether\ a\ key\ is\ pressed\ currently\r\n\ \r\n\ @author\ Manuel\ Kienlein\r\n
+comment1.params=keyCode
+comment1.target=boolean\ isKeyTyped(java.lang.String)
+comment2.params=keyCode
+comment2.target=void\ logTyped(java.lang.String)
+numComments=3

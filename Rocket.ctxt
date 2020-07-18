@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Rocket
+comment0.text=\r\n\ A\ rocket\ can\ be\ fired\ from\ an\ ambulance\ to\ destroy\ ladybugs\r\n\ \r\n\ @author\ Manuel\ Kienlein\r\n
+comment1.params=direction\ autoFollow
+comment1.target=Rocket(int,\ boolean)
+comment2.params=
+comment2.target=void\ act()
+numComments=3

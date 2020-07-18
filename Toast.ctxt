@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Toast
+comment0.text=\r\n\ A\ toast\ is\ a\ message\ that\ will\ be\ displayed\ in\ the\ center\ of\ the\ screen\r\n\ \r\n\ @author\ Manuel\ Kienlein\r\n
+comment1.params=
+comment1.target=Toast()
+comment2.params=
+comment2.target=void\ act()
+comment3.params=message
+comment3.target=void\ setText(java.lang.String)
+numComments=4
